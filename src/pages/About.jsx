@@ -1,8 +1,9 @@
 import React from 'react'
 
-export default function header() {
+export default function About() {
   return (
     <div>
+About
       
     </div>
   )
